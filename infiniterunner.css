@@ -1,0 +1,39 @@
+#GameControls {
+    position: absolute;
+    bottom: 70px;
+    width: 200px;
+    height: 80px;
+}
+
+#GameControls #CtrlUp {
+    position: absolute;
+    top: 5px;
+    left: 62px;
+    opacity: 0.4;
+}
+
+#GameControls #CtrlLeft {
+    position: absolute;
+    left: 5px;
+    top: 60px;
+    opacity: 0.4;
+}
+
+#GameControls #CtrlRight {
+    position: absolute;
+    right: 5px;
+    top: 60px;
+    opacity: 0.4;
+}
+
+#GameControls #CtrlUp:hover {
+    opacity: 1;
+}
+
+#GameControls #CtrlLeft:hover {
+    opacity: 1;
+}
+
+#GameControls #CtrlRight:hover {
+    opacity: 1;
+}
